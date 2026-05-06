@@ -145,4 +145,4 @@ Klub_seniora_system/
 - **Paradygmat:** OOP (Object-Oriented Programming)
 
 
-**Autor:** Klaudia Łacińska, nr. indeksu: 52731, informatyka, gr. PGK.
+**Autor:** Klaudia Łacińska
